@@ -79,8 +79,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 💬 Contact
 If you have any questions or suggestions, feel free to reach out:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub Issues: [Create an Issue](https://github.com/your-username/jarvis/issues)
+- Email: [pdldarshan008@gmail.com](mailto:pdldarshan008@gmail.com)
 
 ---
 
